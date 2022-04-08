@@ -1,0 +1,1 @@
+console.log("Pierwszy skrypt serwera.")
